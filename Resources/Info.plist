@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.bigotto.PodsMic</string>
+    <key>CFBundleName</key>
+    <string>PodsMic</string>
+    <key>CFBundleDisplayName</key>
+    <string>PodsMic</string>
+    <key>CFBundleExecutable</key>
+    <string>PodsMic</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>O PodsMic abre o microfone (sem gravar nada) para receber o gesto de mudo dos AirPods durante a reunião.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>O PodsMic controla o navegador para ler e alternar o microfone do Google Meet.</string>
+</dict>
+</plist>
